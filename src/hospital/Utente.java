@@ -13,7 +13,7 @@ public class Utente {
     String nome,
            DataNascimento,
            observacoes;
-
+ 
     public Utente(String nome, String DataNascimento, String observacoes) {
         this.nome = nome;
         this.DataNascimento = DataNascimento;

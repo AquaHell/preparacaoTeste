@@ -3,17 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package medico;
-
-import hospital.Imagiologia;
+package hospital;
 
 /**
  *
  * @author UserPL022Pc11
  */
-public class Ortopedista extends Medico {
+public class Medico {
 
-    public void analisar(Imagiologia raioX) {
+    int anoDoutoramento;
+    String instEnsino,
+            idLicenca;
+ 
+    public void prescreverTratamento() {
 
     }
 }

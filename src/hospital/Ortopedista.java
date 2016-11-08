@@ -3,19 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package medico;
+package hospital;
 
-import hospital.Imagiologia;
-import hospital.Tac;
+
 
 /**
  *
  * @author UserPL022Pc11
  */
-public class Neurologista extends Medico {
-
-    public void analisar(Imagiologia tac) {
+public class Ortopedista extends Medico {
+ 
+    public void analisar(Imagiologia raioX) {
 
     }
-
 }

@@ -10,7 +10,7 @@ package hospital;
  * @author UserPL022Pc11
  */
 public class RaioX extends Imagiologia {
-
+ 
     public RaioX() {
         super();
     }

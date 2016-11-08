@@ -10,7 +10,7 @@ package hospital;
  * @author UserPL022Pc11
  */
 public class Tac extends Imagiologia {
-
+ 
     public Tac() {
         super();
     }

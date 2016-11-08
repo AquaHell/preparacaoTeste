@@ -3,17 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package medico;
+package hospital;
 
-import hospital.Utente;
+
 
 /**
  *
  * @author UserPL022Pc11
  */
-public class Cirurgiao extends Medico {
-
-    public void operar(Utente utente) {
+public class Neurologista extends Medico {
+ 
+    public void analisar(Imagiologia tac) {
 
     }
+
 }
